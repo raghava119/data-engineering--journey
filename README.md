@@ -1,5 +1,4 @@
 # data-engineering--journey
-# Data Engineering Learning Repository
 
 Welcome! This repository documents my journey learning Data Engineering — tools, frameworks, projects and daily commits.
 
